@@ -16,38 +16,29 @@ Input validation
 Division by zero error handling
 Repeat calculations without restarting the program
 Exit option
+
 🛠️ Technologies Used
 Programming Language: C++
 Compiler: GCC / MinGW
 Editor: Visual Studio Code
 ▶️ How to Run the Program
 1. Clone this repository
-bash
 git clone https://github.com/Nidhi2600/Basic-Calculator-CPP.git
 
 2. Open the project folder
-bash
 cd Basic-Calculator-CPP
 
 3. Compile the C++ program
-bash
-g++ calculator.cpp -o calculator
+g++ BasicCalculator.cpp -o calculator
 
-4. Run the program
-
+5. Run the program
 Windows:
-
-bash
 calculator.exe
 
-
 Linux / macOS:
-
-bash
 ./calculator
 
 💻 Sample Output
-text
 ===== BASIC CALCULATOR =====
 1. Addition (+)
 2. Subtraction (-)
@@ -84,14 +75,12 @@ Switch statements
 Loops (do-while)
 Basic arithmetic operations
 Input validation
-👩‍💻 Author
 
+👩‍💻 Author
 Nidhi
 
 🔗 GitHub Repository
-
 https://github.com/Nidhi2600/Basic-Calculator-CPP
 
 📄 License
-
 This project is open-source and available for learning and educational purposes.
